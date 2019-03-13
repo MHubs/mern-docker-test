@@ -5,6 +5,7 @@
 
 ## How to install / get up and running
 
+* Make sure you have NodeJS and Mongo installed
 * Download the project and save it to a folder
 * Open up the terminal/command prompt
 * type 'cd (folder)'
